@@ -1,11 +1,17 @@
 package entity;
 
+import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Getter;
+import lombok.Setter;
 import valueObject.Money;
 import valueObject.OrderId;
 import valueObject.OrderItemId;
 
 @Getter
+@Setter
+@Builder
+@AllArgsConstructor
 public class OrderItem extends BaseEntity<OrderItemId> {
     private final Product product;
     private final int quantity;
@@ -13,7 +19,7 @@ public class OrderItem extends BaseEntity<OrderItemId> {
     private final Money subTotal;
     private OrderId orderId;
 
-    protected OrderItem(Product product, int quantity, Money price, Money subTotal) {
+    public OrderItem(Product product, int quantity, Money price, Money subTotal) {
         this.product = product;
         this.quantity = quantity;
         this.price = price;

@@ -1,0 +1,15 @@
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/common/common-domain/src/main/java/exception/DomainException.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/common/common-domain/src/main/java/event/publisher/DomainEventPublisher.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/common/common-domain/src/main/java/valueObject/CustomerId.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/common/common-domain/src/main/java/valueObject/ProductId.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/common/common-domain/src/main/java/entity/BaseEntity.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/common/common-domain/src/main/java/entity/AggregateRoot.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/common/common-domain/src/main/java/valueObject/OrderId.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/common/common-domain/src/main/java/valueObject/BaseId.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/common/common-domain/src/main/java/valueObject/OrderStatus.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/common/common-domain/src/main/java/repository/ParentRepository.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/common/common-domain/src/main/java/valueObject/RestaurantId.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/common/common-domain/src/main/java/valueObject/OrderApprovalStatus.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/common/common-domain/src/main/java/valueObject/PaymentStatus.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/common/common-domain/src/main/java/event/DomainEvent.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/common/common-domain/src/main/java/valueObject/Money.java

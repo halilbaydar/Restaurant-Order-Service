@@ -1,0 +1,16 @@
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/entity/Customer.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/entity/Restaurant.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/entity/OrderItem.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/valueObject/StreetAddress.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/valueObject/TrackingId.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/valueObject/OrderItemId.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/constant/ErrorConstant.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/event/OrderCancelledEvent.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/exception/OrderDomainException.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/event/OrderPaidEvent.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/event/OrderCreatedEvent.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/OrderDomainService.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/event/OrderEvent.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/entity/Product.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/OrderServiceDomainImpl.java
+/Users/halilbaydar/Desktop/PROJECTS/Backend Projects/food-ordering-system/order-service/order-domain/order-domain-core/src/main/java/entity/Order.java

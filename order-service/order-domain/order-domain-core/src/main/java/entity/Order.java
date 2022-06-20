@@ -1,6 +1,7 @@
 package entity;
 
 import exception.OrderDomainException;
+import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
 import valueObject.*;
@@ -37,6 +38,17 @@ public class Order extends AggregateRoot<OrderId> {
         this.trackingId = trackingId;
         this.orderStatus = orderStatus;
         this.failureMessages = failureMessages;
+    }
+
+    public Order(CustomerId customerId, RestaurantId restaurantId,
+                 StreetAddress orderAddressToStreetAddress, Money money,
+                 List<OrderItem> orderItemsToOrderItemEntities) {
+        super();
+        this.costumerId = customerId;
+        this.restaurantId = restaurantId;
+        this.deliveryAddress = orderAddressToStreetAddress;
+        this.price = money;
+        this.orderItems = orderItemsToOrderItemEntities;
     }
 
     public void initializeOrder() {
